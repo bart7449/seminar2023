@@ -1,7 +1,6 @@
 # Seminar II: Deep Learning-based Natural Language Processing
-Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how machine understand and generate human languages.  
-In recent years, deep learning approaches have obtained very high performance on many NLP tasks. 
-In this course, students will gain knowledge about cutting-edge neural networks for NLP.
+Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how machine understand and generate human languages.  In recent years, deep learning approaches have successfully obtained very high performance on many NLP tasks. 
+In this course, students will gain knowledge about cutting-edge neural network technologies for natural language processing from RNN to generative models like ChatGPT. 
 
 ## Course Information
 - This course meets for in-class lecture Fri 15:00 - 17:00 (Seminar room No.2 at KISTI KIUM).
