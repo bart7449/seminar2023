@@ -3,7 +3,7 @@ Artificial intelligence (AI) changes everything in our society and industry. In 
 In this course, students will acquire knowledge of cutting-edge neural network technologies in various scientific and industrial fields.
 
 ## Course Information
-- This course will run online Thursday 10:00 - 12:00 (ZOOM Room ID  838 9307 6988), run by three UST professors(Kyong-Ha Lee@KISTI, Heyjin Kim, Byungjun Bae@ETRI).
+- This course will be held online every Thursday from 10:00 to 12:00 until December 21, 2023.
 - In this seminar class, students are asked to review seminal papers related to their researches and present their research topics in the class.
 - For all inquiries related to this course, please contact kyongha@kisti.re.kr
 
@@ -11,19 +11,20 @@ In this course, students will acquire knowledge of cutting-edge neural network t
 This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr/prog/major/eng/sub03_03_02/IR/view.do?majorNo=32">KISTI campus</a>. 
 
 ### Time and Location
-- Fri. 15:00  ~ 17:00
-- <span style="color:red">Due to the spread of COVID 19 virus, some lectures may be held online.</span> 
+- Thursday. 10:00  ~ 12:00
+- ZOOM Meeting ID<span style="color:red"> 838 9307 6988</span>
+- Password for entering the ZOOM meeting will be directly delievered to participants 
+
 ## Materials
-- Related lecture : Stanford CS224N http://web.stanford.edu/class/cs224n/
-- A curated list of resources dedicated to Natural Language Processing https://github.com/keon/awesome-nlp
 - All slides for this seminar class will be available here. 
 ## Logistics
 - All course announcements take place though this page. Please check this page frequently.
-- You must submit your presentation materials to me by e-mail one day before class.
+- You must submit your presentation materials to me by e-mail two days before the class time.
 - 
 ### Class components and grading
 - Your grade will be recorded as a success or failure 
-
+- You may receive additional points for your sincere participation in Q&As.
+- 
 |Event|Date| In-class Presentation| Materials and Assignments|
 |---------|----------|---------------------|------------|
 |Week 1|4 March 2022| Course Introduction| None|
