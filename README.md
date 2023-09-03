@@ -8,7 +8,10 @@ In this course, students will acquire knowledge of cutting-edge neural network t
 - For all inquiries related to this course, please contact kyongha@kisti.re.kr
 
 ### Instructor
-This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr/prog/major/eng/sub03_03_02/IR/view.do?majorNo=32">KISTI campus</a>. 
+This seminar is jointly supervised by three UST professors 
+- Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr/prog/major/eng/sub03_03_02/IR/view.do?majorNo=32">KISTI campus</a>.
+- Dr. Hyejin Kim at <a href="https://https://www.ust.ac.kr/prog/campus/campus/sub36_04/36/majorView.do?majorNo=71&kind=information>ETRI campus</a>
+- Dr. Byungjun Bae at <https://www.ust.ac.kr/prog/campus/campus/sub36_04/36/majorView.do?majorNo=70&kind=information>ETRI campus</a>
 
 ### Time and Location
 - Thursday. 10:00  ~ 12:00
