@@ -30,21 +30,21 @@ This seminar is jointly supervised by three UST professors
 - 
 |Event|Date| Class presentation| Materials|Suerpvisor|
 |---------|----------|---------------------|------------|-----------
-|Week 1|7 September 2022| Course Introduction| None|Kyong-Ha Lee|
-|Week 2|14 September 2022| | None| Kyong-Ha Lee|
-|Week 3|21 September 2022| | None| Kyong-Ha Lee|
-|Week 4|28 September 2022|*<span style="color:red">Chuseok Holiday</span>*|None| Kyong-Ha Lee|
-|Week 5|5 October 2022| | None| Kyong-Ha Lee|
-|Week 6|12 October 2022| | None| Kyong-Ha Lee|
-|Week 7|19 October 2022| | None| Hyejin Kim|
-|Week 8|26 October 2022| | None| Hyejin Kim|
-|Week 9|2 November 2022| | None| Hyejin Kim|
-|Week 10|9 November 2022| | None| Hyejin Kim|
-|Week 11|16 November 2022| | None| Hyejin Kim|
-|Week 12|23 November 2022| | None| Byungjun Bae|
-|Week 13|30 November 2022| | None| Byungjun Bae|
-|Week 14|7 December 2022| | None| Byungjun Bae|
-|Week 15|14 December 2022| | None| Byungjun Bae|
-|Week 16|21 December 2022| | None| Byungjun Bae|
+|Week 1|7 September 2023| Course Introduction| None|Kyong-Ha Lee|
+|Week 2|14 September 2023| | None| Kyong-Ha Lee|
+|Week 3|21 September 2023| | None| Kyong-Ha Lee|
+|Week 4|28 September 2023|*<span style="color:red">Chuseok Holiday</span>*|None| Kyong-Ha Lee|
+|Week 5|5 October 2023| | None| Kyong-Ha Lee|
+|Week 6|12 October 2023| | None| Kyong-Ha Lee|
+|Week 7|19 October 2023| | None| Hyejin Kim|
+|Week 8|26 October 2023| | None| Hyejin Kim|
+|Week 9|2 November 2023| | None| Hyejin Kim|
+|Week 10|9 November 2023| | None| Hyejin Kim|
+|Week 11|16 November 2023| | None| Hyejin Kim|
+|Week 12|23 November 2023| | None| Byungjun Bae|
+|Week 13|30 November 2023| | None| Byungjun Bae|
+|Week 14|7 December 2023| | None| Byungjun Bae|
+|Week 15|14 December 2023| | None| Byungjun Bae|
+|Week 16|21 December 2023| | None| Byungjun Bae|
 
 
