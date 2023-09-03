@@ -1,4 +1,4 @@
-# Integrated Seminar
+# Integrated Seminar(Fall 2023)
 Artificial intelligence (AI) changes everything in our society and industry. In recent years, deep learning approaches have successfully achieved very high performance on many tasks.
 In this course, students will acquire knowledge of cutting-edge neural network technologies in various scientific and industrial fields.
 
