@@ -28,9 +28,9 @@ This seminar is jointly supervised by three UST professors
 - Your grade will be recorded as a success or failure 
 - You may receive additional points for your sincere participation in Q&As.
 - 
-|Event|Date| Class presentation| Materials|Suerpvisor|
+|Event|Date| Class presentation| Materials|Advisor|
 |---------|----------|---------------------|------------|-----------
-|Week 1|7 September 2023| Course Introduction| None|Kyong-Ha Lee|
+|Week 1|7 September 2023|<a href="https://github.com/bart7449/seminar2023/blob/main/HowToPresent.pdf">Course Introduction</a>| None|Kyong-Ha Lee|
 |Week 2|14 September 2023| | None| Kyong-Ha Lee|
 |Week 3|21 September 2023| | None| Kyong-Ha Lee|
 |Week 4|28 September 2023|*<span style="color:red">Chuseok Holiday</span>*|None| Kyong-Ha Lee|
