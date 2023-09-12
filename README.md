@@ -31,7 +31,7 @@ This seminar is jointly supervised by three UST professors
 |Event|Date| Class presentation| Notes|Advisor|
 |---------|----------|---------------------|------------|-----------
 |Week 1|7 September 2023|<a href="https://github.com/bart7449/seminar2023/blob/main/HowToPresent.pdf">Course Introduction</a>| None|Kyong-Ha Lee|
-|Week 2|14 September 2023|<ul><li><a href="https://github.com/bart7449/seminar2023/blob/main/week1_Hasnain.pdf">Hasnain</a><li><a href="https://github.com/bart7449/seminar2023/blob/main/week1_Yesim.pdf">Yesim</> <li>Hobeum Jeon</ul> | None| Kyong-Ha Lee|
+|Week 2|14 September 2023|<ul><li><a href="https://github.com/bart7449/seminar2023/blob/main/week1_Hasnain.pdf">Hasnain</a><li><a href="https://github.com/bart7449/seminar2023/blob/main/week1_Yesim.pdf">Yesim</a> <li>Hobeum Jeon</ul> | None| Kyong-Ha Lee|
 |Week 3|21 September 2023|<ul><li>Hyunwoo Jung<li>Donghwan Lee<li>Hyungmin Kim</ul>| None| Kyong-Ha Lee|
 |Week 4|28 September 2023|*<span style="color:red">Chuseok Holiday</span>*|No class due to the national holiday| Kyong-Ha Lee|
 |Week 4|5 October 2023| <ul><li>Khaing<li>Nguyen<li>Jiwoon Jang</ul> | None| Kyong-Ha Lee|
