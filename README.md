@@ -22,7 +22,7 @@ This seminar is jointly supervised by three UST professors
 - All slides for this seminar class will be available here. 
 ## Logistics
 - All course announcements take place though this page. Please check this page frequently.
-- You must submit your presentation materials to me by e-mail two days before the class time.
+- You must submit your presentation materials to Dr. <a href="mailto:kyongha@kisti.re.kr">Kyong-Ha Lee</a> by e-mail two days prior to your presentation date.
 - 
 ### Class components and grading
 - Your grade will be recorded as a success or failure 
