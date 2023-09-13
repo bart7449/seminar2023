@@ -37,16 +37,16 @@ This seminar is jointly supervised by three UST professors
 |Week 4|28 September 2023|*<span style="color:red">Chuseok Holiday</span>*|No class due to the national holiday|No class |
 |Week 4|5 October 2023| <ul><li>Khaing<li>Nguyen<li>Jiwoon Jang</ul> | None| Kyong-Ha Lee|
 |Week 5|12 October 2023| <ul><li>Aung <li>Mijin Choi <li>Sunhee Kim</ul> | Make-up class for Choseok Holiday| Kyong-Ha Lee|
-|Week 6|14 October 2023| <ul><li>Jihyun Hwan<li>Rubin Won<li>Minkyoon Goh<li>Temur</ul> | None| Kyong-Ha Lee|
+|Week 6|14 October 2023| <ul><li>Jihyun Hwang<li>Rubin Won<li>Minkyoon Goh<li>Temur</ul> | None| Kyong-Ha Lee|
 |Week 7|19 October 2023| <ul><li>Hasnain <li>Yesim <li>Hobeum Jeon </ul> | None| Hyejin Kim|
 |Week 8|26 October 2023| <ul><li>Hyunwoo Jung <li>Donghwan Lee <li> Hyungmin Kim</ul>  | None| Kyong-Ha Lee|
 |Week 9|2 November 2023| <ul><li>Khaing<li>Nguyen<li>Jiwoon Jang</ul> | None| Hyejin Kim|
 |Week 10|9 November 2023| <ul><li>Aung <li>Mijin Choi <li>Sunhee Kim</ul> | None| Hyejin Kim|
-|Week 11|16 November 2023| <ul><li>Jihyun Hwan<li>Rubin Won<li>Minkyoon Goh<li>Temur</ul>  | None| Hyejin Kim|
+|Week 11|16 November 2023| <ul><li>Jihyun Hwang<li>Rubin Won<li>Minkyoon Goh<li>Temur</ul>  | None| Hyejin Kim|
 |Week 12|23 November 2023|<ul><li>Hasnain <li>Yesim <li>Hobeum Jeon </ul>  | None| Byungjun Bae|
 |Week 13|30 November 2023| <ul><li>Hyunwoo Jung <li>Donghwan Lee <li> Hyungmin Kim</ul>  | None| Byungjun Bae|
 |Week 14|7 December 2023|<ul><li>Khaing<li>Nguyen<li>Jiwoon Jang</ul>   | None| Byungjun Bae|
 |Week 15|14 December 2023| <ul><li>Aung <li>Mijin Choi <li>Sunhee Kim</ul> | None| Byungjun Bae|
-|Week 16|21 December 2023|  <ul><li>Jihyun Hwan<li>Rubin Won<li>Minkyoon Goh<li>Temur</ul>  | None| Byungjun Bae|
+|Week 16|21 December 2023|  <ul><li>Jihyun Hwang<li>Rubin Won<li>Minkyoon Goh<li>Temur</ul>  | None| Byungjun Bae|
 
 
