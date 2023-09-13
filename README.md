@@ -19,11 +19,12 @@ This seminar is jointly supervised by three UST professors
 - Password for entering the ZOOM meeting will be directly delievered to participants 
 
 ## Materials
-- All slides for this seminar class will be available here. 
+- All slides for this seminar class will be available here.
+   
 ## Logistics
 - All course announcements take place though this page. Please check this page frequently.
 - You must submit your presentation materials to Dr. <a href="mailto:kyongha@kisti.re.kr">Kyong-Ha Lee</a> by e-mail two days prior to your presentation date.
-- 
+  
 ### Class components and grading
 - Your grade will be recorded as a success or failure 
 - You may receive additional points for your sincere participation in Q&As.
