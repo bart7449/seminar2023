@@ -43,8 +43,8 @@ This seminar is jointly supervised by three UST professors
 |Week 9|4 November 2023| <ul><li><a href="https://github.com/bart7449/seminar2023/blob/main/week9_Khaing.pdf">Robot Assisted CT Guided percutaneous</a> (Khaing)<li><a href="https://github.com/bart7449/seminar2023/blob/main/week9_Nguyen.pdf">Optimization Technique for Turbomachinery</a> (Nguyen)<li><a href="https://github.com/bart7449/seminar2023/blob/main/week9_Jiwoon.pdf">Multi-Party Computation for Privacy Preserving in the Metaverse Environment</a> (Jiwoon Jang)</ul> | Make-up class for 2nd Nov. class| Hyejin Kim|
 |Week 10|9 November 2023| <ul><li><a href="https://github.com/bart7449/seminar2023/blob/main/week10_Aung.pdf">Enhancing Multi-view Pedestraina Detection through generalized 3D Feature Pulling"</a>(Aung) <li><a href="https://github.com/bart7449/seminar2023/blob/main/week10_Minji.pdf">Possibility of Disaster Image Through Fine-tuning</a>( Mijin Choi) <li><a href="https://github.com/bart7449/seminar2023/blob/main/week10_Seonhui.pdf">Conversational Korean-Vietnm Translator for Interpreters</a>(Sunhee Kim)</ul> | None| Kyong-Ha Lee |
 |Week 11|18 November 2023| <ul><li>Jihyun Hwang<li>Rubin Won<li>Minkyoon Goh<li>Temur</ul>  | Make-up class for 16th Nov. class|Hyejin Kim|
-|Week 12|23 November 2023|<ul><li>Hasnain <li>Yesim <li>Hobeum Jeon </ul>  | None| Byungjun Bae|
-|Week 13|30 November 2023| <ul><li>Hyunwoo Jung <li>Donghwan Lee <li> Hyungmin Kim</ul>  | None| Byungjun Bae|
+|Week 12|23 November 2023|<ul><li>Hasnain  <li>Hobeum Jeon </ul>  | None| Byungjun Bae|
+|Week 13|30 November 2023| <ul><li>Yesim <li>Hyunwoo Jung <li>Donghwan Lee <li> Hyungmin Kim</ul>  | None| Byungjun Bae|
 |Week 14|7 December 2023|<ul><li>Khaing<li>Nguyen<li>Jiwoon Jang</ul>   | None| Byungjun Bae|
 |Week 15|14 December 2023| <ul><li>Aung <li>Mijin Choi <li>Sunhee Kim</ul> | None| Byungjun Bae|
 |Week 16|21 December 2023|  <ul><li>Jihyun Hwang<li>Rubin Won<li>Minkyoon Goh<li>Temur</ul>  | None| Byungjun Bae|
